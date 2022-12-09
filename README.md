@@ -9,3 +9,5 @@ ZtoEeAnalysis t
 t.Loop()
 
 Afterwards, the analysis ROOT files for electrons, positrons, and Z bosons are ready. The Breit-Wigner Function is also applied to the Z boson.
+
+##Mass Paiz Z Histogram
