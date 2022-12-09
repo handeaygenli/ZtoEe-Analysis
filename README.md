@@ -10,4 +10,7 @@ t.Loop()
 
 Afterwards, the analysis ROOT files for electrons, positrons, and Z bosons are ready. The Breit-Wigner Function is also applied to the Z boson.
 
-##Mass Paiz Z Histogram
+## Mass Paiz Z Histogram
+
+![Screenshot_20220110_165821](https://user-images.githubusercontent.com/62266472/206757851-e3cad68a-2099-4dc8-8606-b6ad09c6a133.png)
+
